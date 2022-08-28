@@ -7,7 +7,7 @@ let numberValue2 = 10;
 
 let numberValue3 = 31;
 
-numberValue = 20
+numberValue = 45
 
 city = "Antalya";
 
